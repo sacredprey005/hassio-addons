@@ -4,6 +4,7 @@
   "slug": "hass_tunnel",
   "description": "Automatically connect to a ssh server for forwarding ports",
   "url": "https://github.com/odinuge/hassio-addons",
+  "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
   "startup": "application",
   "boot": "auto",
   "host_network": true,
